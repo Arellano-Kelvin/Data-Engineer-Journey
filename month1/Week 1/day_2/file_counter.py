@@ -14,3 +14,7 @@ shutil.copy(source1, home_dir)
 destination2 = os.path.join(home_dir, 'spam', 'file2.txt')
 shutil.copy(source1, destination2)
 '''
+
+import os
+import shutil
+
