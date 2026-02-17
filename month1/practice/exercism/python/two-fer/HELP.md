@@ -39,7 +39,7 @@ $ python3 -m pytest -o markers=task {exercise_test.py}
 
 Windows
 ```powershell
-PS C:\Users\foobar> py -m pytest -o markers=task {exercise_test.py}
+PS C:\Users\foobar> py -m pytest -o markers=task two_fer_test.py
 ==================== 7 passed in 0.08s ====================
 ```
 
